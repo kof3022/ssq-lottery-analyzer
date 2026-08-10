@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 生成的分析产物（可由 analysis.py / download_ssq.py 重新生成）
+output/
+双色球开奖数据_最近100期.csv
+双色球分区数据_最近100期.csv
+双色球频率遗漏汇总.csv
+双色球马尔可夫转移矩阵.csv
+双色球分析报告_近10期.md
+双色球下一期热门推荐_基于49期.md
+
+# 系统
+.DS_Store
+Thumbs.db
